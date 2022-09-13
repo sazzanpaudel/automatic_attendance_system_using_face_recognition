@@ -6,3 +6,13 @@ to iris recognition and fingerprint. Traditional method  for taking attendance i
 a lot of time. To overcome the problem of wastage of time, incorrect attendance, the  proposed system gives a method like when he enters the class room, system marks
 by  extracting the image using Haarcascade Classifier algorithm. Student datas are collected in databse which includes name of  the students, there images and roll number
 , department and other detail. It carries an entry in  log report of every student of each subject and generate the attendance of the student.
+##DATASET##
+![image](https://user-images.githubusercontent.com/45491679/189975836-c6da3b24-b1b6-415f-ac27-98775466fc9e.png)
+
+######OUTPUT######
+![image](https://user-images.githubusercontent.com/45491679/189976071-acd28ed8-877b-44e3-a33a-0930dd949b7c.png)
+
+######SYSTEM UI########
+![image](https://user-images.githubusercontent.com/45491679/189976192-ea3577f3-fb84-4cdb-9393-172471953a26.png)
+
+
